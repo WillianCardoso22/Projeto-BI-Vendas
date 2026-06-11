@@ -42,7 +42,7 @@ O dashboard foi desenhado especificamente para sanar as seguintes dores dos stak
 
 ## 🖼️ Visualização do Dashboard
 
-![Dashboard Executivo](Imagens/03_dashboard_executivo.png)
+![Dashboard Executivo](Imagens/_dashboard_executivo.png)
 
 
 ---
