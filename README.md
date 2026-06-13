@@ -19,14 +19,30 @@ O dashboard foi desenhado especificamente para sanar as seguintes dores dos stak
 ### 1. Quanto a empresa faturou?
 * **Insight Comercial:** [R$ 1,115 BI]. Este KPI principal foi destacado estrategicamente para acompanhamento rápido da saúde financeira do negócio.
 
+<p align="center">
+  <img src="./Imagens/Faturamento%20Total.png" width="850">
+</p>
+
 ### 2. Quais produtos vendem mais?
 * **Insight Comercial:** [Riverside palais royal, atlantic metals mobil 5, Canon Imagem CLASS 2000...]. Essa informação permite otimizar a gestão de estoque e planejar campanhas de marketing direcionadas para os itens de maior giro.
+  
+<p align="center">
+  <img src="./Imagens/Produtos%20que%20mais%20vendem.png" width="850">
+</p>
 
 ### 3. Qual região vende mais?
 * **Insight Comercial:** [California, Texas, New York...]. Identificar a distribuição geográfica ajuda na alocação eficiente de investimentos e recursos logísticos.
+  
+<p align="center">
+  <img src="./Imagens/Faturamento%20por%20região.png" width="850">
+</p>
 
 ### 4. Qual categoria é mais lucrativa?
 * **Insight Comercial:** [Funiture com 543 Milhões em faturamento]. Esse insight mostra que faturamento nem sempre é sinônimo de lucro.
+  
+<p align="center">
+  <img src="./Imagens/Faturamento%20por%20categoria.png" width="850">
+</p>
 
 ### 5. Como as vendas evoluem ao longo do tempo?
 * **Insight Comercial:** [Identificamos uma forte sazonalidade com picos de vendas concentrados no quarto trimestre (Q4) de cada ano e baixas no primeiro]. Permite a previsibilidade de caixa e planejamento de compras antecipadas.
@@ -42,7 +58,9 @@ O dashboard foi desenhado especificamente para sanar as seguintes dores dos stak
 
 ## 🖼️ Visualização do Dashboard
 
-![Dashboard Executivo](Imagens/_dashboard_executivo.png)
+<p align="center">
+  <img src="./Imagens/Dashboard_executivo.png" width="1000">
+</p>
 
 
 ---
@@ -53,9 +71,15 @@ Com base nos dados analisados, as recomendações para o negócio são:
 2. **Ação em Regiões Frias:** Desenvolver planos de ação para as regiões com menor desempenho para entender o comportamento do consumidor local.
 3. **Planejamento Sazonal:** Antecipar compras com fornecedores antes dos meses de pico histórico para evitar quebra de estoque.
 
----
 
 ## ✉️ Contato
 Desenvolvido por **Willian Cardoso** - Vamos nos conectar!
-* **LinkedIn:** [(https://www.linkedin.com/in/willian-cardoso-33a5171b0/)]
-* **E-mail:** [williancardosom2201@gmail.com]
+<p align="center">
+  <a href="https://www.linkedin.com/in/willian-cardoso-33a5171b0/">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+
+  <a href="mailto:wiliancardosom21@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+</p>
